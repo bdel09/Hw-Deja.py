@@ -3,7 +3,6 @@
 
 import turtle
 t = turtle.Turtle()
-t.speed(0)  
 for i in range(60, 112, 2):
     t.color("red")
     t.forward(i)
